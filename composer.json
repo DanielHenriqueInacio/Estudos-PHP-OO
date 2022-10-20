@@ -1,0 +1,16 @@
+{
+    "name": "danie/phpoo",
+    "authors": [
+        {
+            "name": "Daniel Inácio",
+            "email": "danielhi2013@hotmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Exercicios\\": "Exercicios",
+            "Aulas\\": "Aulas"
+        }
+    }
+}
